@@ -4,6 +4,9 @@ body {
   background-color: white;
   overflow: hidden;
 }
+h1 {
+  text-align: center;
+}
 span {
   background: url('https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/apps/package_favourite.png');
   width: 100px;
